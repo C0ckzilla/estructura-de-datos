@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/anton/OneDrive/academic/academic git workspaces/estructura de datos",
-      "program": "c:/Users/anton/OneDrive/academic/academic git workspaces/estructura de datos/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
